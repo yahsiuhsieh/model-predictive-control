@@ -1,6 +1,6 @@
 # Model Predictive Control of an Autonomous Vehicle
 
-We utilize model predictive controller to perform lane following and obstacle avoidance.
+We utilize model predictive control to perform lane following and obstacle avoidance.
 
 <p align="center">
   <img width="450" height="300" src="https://github.com/coldhenry/Model-Predictive-Control-of-Autonomous-Car/blob/main/results/obstacle_avoidance.gif"/><br/>
@@ -71,3 +71,4 @@ python main.py
 
 * **Arthur Hsieh** - <i>Initial Works</i> - [arthur960304](https://github.com/arthur960304)
 * **Henry Liu** - <i>Initial Works</i> - [coldhenry](https://github.com/coldhenry)
+* Original [repo](https://github.com/coldhenry/Model-Predictive-Control-of-Autonomous-Car)
