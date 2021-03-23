@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Python 3.6.10
 
-* do-mpc 4.1.1
+* [do-mpc](https://github.com/do-mpc/do-mpc) 4.1.1
 
 * numpy >= 1.16.2
 
